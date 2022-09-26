@@ -43,7 +43,7 @@ const DEFAULT_PROPS = {
   height: 3,
 }
 
-export const SolidNProgress: Component = (props: SolidProgressBarProps) => {
+export const SolidNProgress: Component<SolidProgressBarProps> = (props) => {
   const merged = mergeProps(DEFAULT_PROPS, props)
 
   if (!isServer) {
