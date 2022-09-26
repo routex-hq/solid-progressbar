@@ -1,7 +1,7 @@
 {
   "name": "solid-progressbar",
   "description": "Solidjs (@solidjs/router) progress bar component using NProgress.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/routex-hq/solidjs-progressbar#readme",
   "author": {
     "name": "ddpn08",
